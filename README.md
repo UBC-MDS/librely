@@ -1,7 +1,7 @@
 # librely
 
 The goal of librely is to ...
-
+This is a test
 ## Installation
 
 You can install the released version of librely from [CRAN](https://CRAN.R-project.org) with:
