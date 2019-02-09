@@ -27,3 +27,5 @@ Imports:
     readr,
     forcats
 VignetteBuilder: knitr
+URL: https://github.com/aaronquinton/librely
+BugReports: https://github.com/aaronquinton/librely/issues
