@@ -2,7 +2,7 @@
 #'
 #' Input a R script to find and count all the functions used in each respective package
 #'
-#' @param script
+#' @param script a .R file
 #'
 #' @return dataframe
 #' @export

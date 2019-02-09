@@ -3,7 +3,7 @@
 #' Input a R script to prepare a markdown file documenting the dependancies. These can be included in a project
 #' Readme file.
 #'
-#' @param script
+#' @param script a .R file
 #'
 #' @return markdown
 #' @export

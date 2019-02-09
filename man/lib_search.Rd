@@ -7,7 +7,7 @@
 lib_search(script)
 }
 \arguments{
-\item{script}{}
+\item{script}{a .R file}
 }
 \value{
 vector

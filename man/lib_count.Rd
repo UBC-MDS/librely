@@ -7,7 +7,7 @@
 lib_count(script)
 }
 \arguments{
-\item{script}{}
+\item{script}{a .R file}
 }
 \value{
 dataframe

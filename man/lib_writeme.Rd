@@ -7,7 +7,7 @@
 lib_writeme(script)
 }
 \arguments{
-\item{script}{}
+\item{script}{a .R file}
 }
 \value{
 markdown
